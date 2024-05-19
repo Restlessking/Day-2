@@ -95,3 +95,11 @@ Window:-
     => The window is part of BOM, not DOM.
 
     => Properties of the window object cannot be accessed by the document object.
+
+Conclusion:-
+
+    => In summary, while the document object focuses on representing and manipulating the content within an HTML document, 
+    
+    => The window object provides a broader scope, encompassing the browser window's properties, methods, and functionalities. Understanding 
+    
+    => The distinctions between these two objects is essential for effective web development, as it enables developers to leverage their unique capabilities and functionalities to create dynamic and interactive web applications.
